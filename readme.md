@@ -3,7 +3,7 @@
 	RtWlanU.kext
 	RtWlanDisk.kext
 	RtWlanU1827.kext
-}三个kext文件放进/EFI/OC/Kexts目录内
+<br />}三个kext文件放进/EFI/OC/Kexts目录内
 
 然后将StatusBarApp.app放在任意位置(推荐放在用户目录下)
 在系统偏好设置-用户与群组-登陆项里添加StatusBarApp.app
