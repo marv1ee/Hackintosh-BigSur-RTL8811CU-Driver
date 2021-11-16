@@ -1,8 +1,8 @@
 这是Surface Pro3 Hackintosh 11.0 Big Sur的Wi-Fi完美解决方案
 首先将{<br />
-	RtWlanU.kext
-	RtWlanDisk.kext
-	RtWlanU1827.kext
+	RtWlanU.kext<br />
+	RtWlanDisk.kext<br />
+	RtWlanU1827.kext<br />
 <br />}三个kext文件放进/EFI/OC/Kexts目录内
 
 然后将StatusBarApp.app放在任意位置(推荐放在用户目录下)
