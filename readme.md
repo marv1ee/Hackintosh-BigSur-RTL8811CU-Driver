@@ -1,4 +1,4 @@
-这是Surface Pro3 Hackintosh 11.0 Big Sur的Wi-Fi完美解决方案<br />
+这是Hackintosh BigSur 11.0 RTL8811CU的Wi-Fi完美解决方案<br />
 首先将{<br />
 	RtWlanU.kext<br />
 	RtWlanDisk.kext<br />
